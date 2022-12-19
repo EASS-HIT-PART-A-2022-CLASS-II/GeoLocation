@@ -1,5 +1,6 @@
 
 from fastapi import FastAPI
+import pandas as pd
 import os
 
 #dfCity = pd.read_csv('./city.csv')
