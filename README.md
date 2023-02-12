@@ -26,7 +26,8 @@ https://user-images.githubusercontent.com/108284950/218329685-c8b335ed-581a-4c37
 
 ## Design
 
-![image](https://user-images.githubusercontent.com/108284950/218311174-94b950ef-1a62-4106-94ab-7136b25d63d5.png)
+![image](https://user-images.githubusercontent.com/108284950/218329974-d02f1b26-5b0f-43a9-860a-43f03f63b803.png)
+
 
 
 ## Deployment
