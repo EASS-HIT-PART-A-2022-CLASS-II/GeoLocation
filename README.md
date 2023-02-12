@@ -32,7 +32,7 @@ Part of a CS degree course (EASS) final project.
 First of all you will need Git and Docker installed on your machine.
 1.	Open the Terminal, go inside your desired folder and run the following command:
 ```bash
-git clone https://github.com/EASS-HIT-PART-A-2022-CLASS-II/GeoLocation.git.
+git clone https://github.com/EASS-HIT-PART-A-2022-CLASS-II/GeoLocation.git
 ```
 2.	Then you will have to go inside the "GeoLocation" folder using the following command:
 ```bash
