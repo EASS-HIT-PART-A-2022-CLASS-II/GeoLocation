@@ -6,18 +6,26 @@ This is a project to search for cities in Israel in Hebrew and English and displ
 
 Part of a CS degree course (EASS) final project.
 
-## Demonstration
 
+## Requirments
+-	Docker
+-	WSL / compatible linux machine
+
+
+## Technologies
+#### Backend - Using FastAPI
+
+#### Frontend - Using streamlit
+
+#### logger - Using FastAPI
+
+
+## Demonstration
 
 
 ## Design
 
 ![image](https://user-images.githubusercontent.com/108284950/218311174-94b950ef-1a62-4106-94ab-7136b25d63d5.png)
-
-
-## Requirments
--	Docker
--	WSL / compatible linux machine
 
 
 ## Deployment
