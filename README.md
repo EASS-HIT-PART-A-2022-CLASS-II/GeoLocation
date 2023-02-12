@@ -22,6 +22,7 @@ Part of a CS degree course (EASS) final project.
 
 ## Demonstration
 
+https://user-images.githubusercontent.com/108284950/218329685-c8b335ed-581a-4c37-b0cc-b25d1ef1f03d.mp4
 
 ## Design
 
