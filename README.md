@@ -15,7 +15,7 @@ Part of a CS degree course (EASS) final project.
 ## Technologies
 #### Backend - Using FastAPI
 
-#### Frontend - Using streamlit
+#### Frontend - Using Streamlit
 
 #### logger - Using FastAPI
 
